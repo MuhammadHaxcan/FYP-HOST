@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\fyp-backend"
+    "\\fyp-backend",
+    "\\fyp-backend\\backend"
   ],
+  "SelectedNode": "\\fyp-backend\\backend\\settings.py",
   "PreviewInSolutionExplorer": false
 }
